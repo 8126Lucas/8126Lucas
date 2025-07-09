@@ -1,16 +1,55 @@
-## Hi there 👋
+## Olá, pessoas 👋
 
-<!--
-**8126Lucas/8126Lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O meu nome é **Lucas Santos**. Atualmente estou no 1º ano da Licenciatura de **Engenharia de Telecomunicações e Informática**, no ISEP.
+De momento estou a trabalhar na **Swam**, colaborando com o <a href="https://github.com/miigaszzz" target="_blank">@miigaszzz</a> no desenvolvimento integral da aplicação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou a fazer
+🔸 **Linguagens de Programação**: A licenciatura levou-me a aprender **C** e **C++**. Além disso, estou a preparar-me para mergulhar em **React Native** neste verão. Gosto de trabalhar com **Python** (embora ache que seja batota 😏) e tenho bases em **Shell Script** e **PowerShell**, graças aos meus amigos de Engenharia Informática.
+
+🔸 **Projetos Pessoais**: Estou sempre a procurar mini projetos para fazer nos meus tempos livres para aprender e melhorar as minhas *coding skills*.
+
+🔸 **Colaboração**: Estou aberto a colaborar em projetos interessantes e aprender novas táticas. Se tiveres algo em mente, vamos conversar!
+
+---
+
+### 📊 As minhas estatísticas
+<div align="center">
+  
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=8126Lucas&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
+  
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=8126Lucas&layout=compact&hide=css,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=8126Lucas&theme=dark)](https://git.io/streak-stats)
+</div>
+
+---
+
+### 📫 Como me contactar
+🔸 **GitHub**: Bem... já me encontraste! Podes explorar os meus repositórios à vontade.
+
+🔸 **Email**: lucaspereirasantos8126@gmail.com
+
+🔸 **Discord**: lucas8126.
+
+---
+
+### 🌟 Curiosidades sobre mim
+🔸 **Hobbies**: Piano, guitarra, Benson Boone 😉
+
+🔸 **Autor favorito**: Eça de Queiroz
+
+🔸 **Pintor favorito**: Caravaggio
+
+🔸 **Ator favorito**: Michael B. Jordan
+
+🔸 **Cantor favorito**: Benson Boone (e Damiano David, dependendo dos dias)
+
+
+
+
+
+<p align="center">
+  Feito com ❤️ por Lucas Santos
+</p>
