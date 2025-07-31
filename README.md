@@ -33,6 +33,8 @@ De momento estou a trabalhar na **Swam**, colaborando com o <a href="https://git
 
 🔸 **Discord**: lucas8126.
 
+🔸 **LinkedIn**: https://www.linkedin.com/in/lucas8126/
+
 ---
 
 ### 🌟 Curiosidades sobre mim
