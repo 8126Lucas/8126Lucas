@@ -19,7 +19,7 @@ De momento estou a trabalhar na **Swam**, colaborando com o <a href="https://git
   
   [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=8126Lucas&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
   
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=8126Lucas&layout=compact&hide=css,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=8126Lucas&layout=compact&hide=swig&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=8126Lucas&theme=dark)](https://git.io/streak-stats)
 </div>
