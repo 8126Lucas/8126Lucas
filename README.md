@@ -1,12 +1,12 @@
 ## Olá, pessoas 👋
 
 O meu nome é **Lucas Santos**. Atualmente estou no 1º ano da Licenciatura de **Engenharia de Telecomunicações e Informática**, no ISEP.
-De momento estou a trabalhar na **Swam**, colaborando com o <a href="https://github.com/miigaszzz" target="_blank">@miigaszzz</a> no desenvolvimento integral da aplicação.
+De momento estou a trabalhar na **Swam**, a colaborar com o <a href="https://github.com/miigaszzz" target="_blank">@miigaszzz</a> no desenvolvimento integral da aplicação.
 
 ---
 
 ### 🚀 O que estou a fazer
-🔸 **Linguagens de Programação**: A licenciatura levou-me a aprender **C** e **C++**. Além disso, estou a preparar-me para mergulhar em **React Native** neste verão. Gosto de trabalhar com **Python** (embora ache que seja batota 😏) e tenho bases em **Shell Script** e **PowerShell**, graças aos meus amigos de Engenharia Informática.
+🔸 **Linguagens de Programação**: A licenciatura levou-me a aprender **C** e **C++**. Além disso, estou a preparar-me para mergulhar em **Java** e **React Native** neste outono. Gosto de trabalhar com **Python** (embora ache que seja batota 😏) e tenho bases em **Shell Script** e **PowerShell**, graças aos meus amigos de Engenharia Informática.
 
 🔸 **Projetos Pessoais**: Estou sempre a procurar mini projetos para fazer nos meus tempos livres para aprender e melhorar as minhas *coding skills*.
 
