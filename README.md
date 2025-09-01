@@ -1,7 +1,7 @@
 ## Olá, pessoas 👋
 
-O meu nome é **Lucas Santos**. Atualmente estou no 1º ano da Licenciatura de **Engenharia de Telecomunicações e Informática**, no ISEP.
-De momento estou a trabalhar na **Swam**, a colaborar com o <a href="https://github.com/miigaszzz" target="_blank">@miigaszzz</a> no desenvolvimento integral da aplicação.
+O meu nome é **Lucas Santos**. Atualmente estou no 2º ano da Licenciatura de **Engenharia de Telecomunicações e Informática**, no ISEP.
+De momento estou a trabalhar na <a href="https://github.com/miigaszzz/Swam.tsx" target="_blank">**Swam**</a>, a colaborar com o <a href="https://github.com/miigaszzz" target="_blank">@miigaszzz</a> no desenvolvimento integral da aplicação.
 
 ---
 
