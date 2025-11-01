@@ -44,9 +44,9 @@ De momento estou a trabalhar na <a href="https://github.com/miigaszzz/Swam.tsx" 
 
 🔸 **Pintor favorito**: Caravaggio
 
-🔸 **Ator favorito**: Michael B. Jordan
+🔸 **Ator favorito**: Jake Gyllenhaal
 
-🔸 **Cantor favorito**: Benson Boone (e Damiano David, dependendo dos dias)
+🔸 **Cantor favorito**: Benson Boone
 
 
 
