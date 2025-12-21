@@ -21,7 +21,7 @@ De momento estou a trabalhar na <a href="https://github.com/miigaszzz/Swam.tsx" 
   
   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=8126Lucas&layout=compact&hide=swig&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=8126Lucas&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=8126Lucas&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
 
 ---
