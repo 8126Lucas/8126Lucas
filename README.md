@@ -6,8 +6,8 @@ Estudante do 3º/último ano da Licenciatura em **Engenharia de Telecomunicaçõ
 
 ### 💻 Tech Stack & Interesses
 
-- **Backend & Linguagens**: Java, TypeScript, Python, C/C++, SQL
-- **Sistemas & Ferramentas**: APIs REST, Supabase (Realtime), React Native, Git, Shell Scripting
+- **Backend & Linguagens**: Java, TypeScript, Python, C/C++, SQL, SWI-Prolog
+- **Sistemas & Ferramentas**: APIs REST, Spring Boot, Supabase (Realtime), React Native, Git, Shell Scripting
 - **Áreas de Interesse**: Arquitetura de Software, Sistemas Distribuídos e Engenharia de Redes
 
 ---
